@@ -62,16 +62,3 @@ changed: [server1.netology]
 PLAY RECAP *********************************************************************
 server1.netology           : ok=7    changed=3    unreachable=0    failed=0    skipped=0    rescued=0    ignored=1   
 
-pi@pi:~/Virt/vagrant$ vagrant ssh
-Welcome to Ubuntu 20.04.4 LTS (GNU/Linux 5.4.0-110-generic x86_64)
-
- * Documentation:  https://help.ubuntu.com
- * Management:     https://landscape.canonical.com
- * Support:        https://ubuntu.com/advantage
-
- System information disabled due to load higher than 1.0
-
-
-This system is built by the Bento project by Chef Software
-More information can be found at https://github.com/chef/bento
-Last login: Tue Aug 23 20:52:00 2022 from 10.0.2.2

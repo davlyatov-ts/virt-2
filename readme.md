@@ -65,7 +65,7 @@ ______________
 ## Ответ
 
 [VM-Install](https://github.com/davlyatov-ts/virt-2/blob/master/VM-Install.txt)
-[docke ps]()
+[docke ps](https://github.com/davlyatov-ts/virt-2/blob/master/docker.txt)
 
 
 
