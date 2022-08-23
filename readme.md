@@ -63,7 +63,8 @@ ______________
 `` docker ps ``
 
 ## Ответ
-![VM-Install]()
+
+![VM-Install](https://github.com/davlyatov-ts/virt-2/blob/master/VM-Install.txt)
 
 
 
